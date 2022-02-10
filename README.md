@@ -30,4 +30,4 @@ Learn step-by-step
 10.Assess trained model performance
 
 
-In this project we use Logistic Regression algorithm to train and test the data to obtain maximum accuracy
+In this project we use Logistic Regression algorithm to train and test the data to obtain maximum accuracy 
